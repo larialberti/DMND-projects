@@ -1,3 +1,3 @@
 # Larissa Albert
 
-[Email Marketing](/projects/Project 7_Email Marketing - Larissa Alberti.pdf)
+[Email Marketing](/projects/project-7-enail-marketing.pdf)
