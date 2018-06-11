@@ -1,4 +1,4 @@
-# Larissa Alberti
+# Larissa Alberti - Digital Marketing Nanodegree
 
 [Market your content](/projects/market-your-content.pdf)
 [Prepare to market](/projects/prepare-to-market.pdf)
