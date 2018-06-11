@@ -8,5 +8,5 @@
 ### [Run an AdWords Campaign - part two](/projects/run-an-adwords-campaign-part-two.pdf) 
 ### [Email Marketing](/projects/email-marketing.pdf) 
 ### [Display Campaign](/projects/evaluate-a-display-ad-campaign.pdf) 
-### [SEO Audit](/projects/seo-audit.pdf) 
+### [SEO Audit](/projects/seo-audit-proj.pdf) 
 ### [Portfolio](/projects/portfolio-Larissa-Alberti.pdf) 
